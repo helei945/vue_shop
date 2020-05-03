@@ -1,5 +1,3 @@
-# vue_shop
-
 ## Project setup
 ```
 yarn install
